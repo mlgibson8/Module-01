@@ -1,10 +1,10 @@
 # Module-01
 
-refactoring exising code
-Made changes to the header
-made changes to the title
-added alt links to code
-added title
+>refactoring exising code
+>Made changes to the header
+>made changes to the title
+>added alt links to code
+>added title
 
 
 ! [Screenshot](https://github.com/mlgibson8/Module-01/blob/main/assets/images/module-01.png)
